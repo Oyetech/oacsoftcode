@@ -1,0 +1,151 @@
+/* Media Query */
+@media screen and (max-width: 1322px){
+	.navbar-nav{
+        margin-left: 0% !important;
+        align-items: left;
+    }
+    #text1{
+        font-size: 30px !important;
+        
+    }
+    #mydiv{
+        margin-top:0% !important;
+    }
+    
+    #side_2{
+        margin-left: -24%;
+        margin-top: -14%;
+    }
+    #btn1{
+        border: 2px solid #0DA30A;  
+        color: #0DA30A;
+        background-color: white;
+        font-size:10px;
+        width: 200px !important;
+        height: 15% !important;
+    }
+    #product{
+        font-size: 25px  !important;
+    }
+    .theh1{
+        font-size: 20px !important;
+        margin-top: -18%   !important;
+    }
+    .thep{
+        font-size: 14px !important;
+    }
+    .read{
+        width: 100px !important;
+        font-weight: 300;
+        font-family: 'Poppins';
+        font-size: 14px;
+    }
+    #we-serve-you{
+        margin-top: 20% !important;
+      
+    }
+
+}
+/* End of Media Query */
+
+.navbar-nav{
+    margin-left: 60%;
+}
+.nav-link{
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    color: black;
+}
+#current{
+   color: #0DA30A;
+   text-underline-offset: 0.5em    
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Inter', sans-serif;
+    ;
+}
+
+#mydiv{
+    margin-top:-10% ;
+}
+
+#btn1{
+    border: 2px solid #0DA30A;  
+    color: #0DA30A;
+    background-color: white;
+    font-size:15px;
+    width: 25%;
+    height: 10%;
+    margin-top: 32px;
+
+}
+#product{
+    font-family: 'Inter', sans-serif;
+    font-weight: bolder;
+}
+#round_1{
+    border-radius: 50%;
+    background-color: white;
+    border: 2px solid #1D1D1B;
+    color: #1D1D1B;
+    height: 40px;
+    width: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Inter', sans-serif;
+    border-color: #1D1D1B;
+}
+
+#btn2{
+    background-color: #0DA30A;
+    color: white;
+    width: 25%;
+    height: 25%;
+    border: 2px solid #0DA30A;
+
+}
+a{
+    text-decoration: none;
+    font-family: 'Inter','sans-serif';
+    color: white;
+    font-weight: 100;
+    
+}
+
+ul li{
+    list-style-type: none;
+
+}
+
+.footer_icons{
+    background-color:#FDFFFC40 ;
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    margin-right: 10px;
+    border: 2px solid #FDFFFC40   ;
+}
+.read{
+    width: 100px !important;
+    font-size: 20px !important;
+    color: #0DA30A !important;
+}
+
+.date{
+    color:#00000066;
+
+}
+
+.footer_icons_2{
+    background-color:#FDFFFC40 ;
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    margin-right: 10px;
+    border: 2px solid #ffff   ;
+}
+
+.contact_icons{
+    font-size: 20px;    
+}
